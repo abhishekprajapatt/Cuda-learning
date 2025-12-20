@@ -1,6 +1,6 @@
 <div align="center"><img src="https://docs.nvidia.com/cuda/_static/Logo_and_CUDA.png" alt="CUDA" height="80"></div> 
 
-## LEARNING PATH - From Basics to Advanced CUDA Programming
+## LEARNING PATH - From Basics to Advanced CUDA Programming.
 
 This structured learning path guides you through the essential steps required to become proficient in CUDA programming, starting from foundational programming knowledge to advanced GPU computing concepts. The path emphasizes building a strong base in programming, understanding data structures, mastering C++, and diving into GPU architecture and CUDA-specific optimizations. Resources include both English and Polish materials, offering flexibility based on language preference.
 

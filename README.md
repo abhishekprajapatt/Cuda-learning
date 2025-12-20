@@ -151,6 +151,7 @@ Comprehensive courses to deepen your GPU programming skills:
 
 ---
 
+
 #### **5. Videos**  
 Explore video tutorials and insights on GPU programming:  
 - [Programming Massively Parallel Processors](https://www.youtube.com/playlist?list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4)  
@@ -159,6 +160,7 @@ Explore video tutorials and insights on GPU programming:
 - [George Hotz Archive](https://www.youtube.com/@geohotarchive/videos)
 
 ---
+
 
 #### **6. Example Implementations**  
 Explore real-world examples and implementations:  

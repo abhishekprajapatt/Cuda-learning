@@ -38,6 +38,7 @@ This structured learning path guides you through the essential steps required to
    - 🇵🇱 🎥 [Programowanie równolegle z wykorzystaniem współczesnych architektur komputerowych z pamięcią współdzieloną](https://icis.pcz.pl/~khalbiniak/OpenMP/)  
 
 
+
 5. **CUDA Programming**:  
    Dive into CUDA, learning GPU programming techniques, optimizations, and advanced performance tuning.  
    - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) 

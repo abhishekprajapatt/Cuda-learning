@@ -11,6 +11,7 @@ This structured learning path guides you through the essential steps required to
    - 🇵🇱 [Podstawy programowania. Język C](https://www.udemy.com/course/podstawy-programowania-jezyk-c)  
    - 🇵🇱 [Zaawansowane programowanie w języku C](https://www.udemy.com/course/zaawansowane-programowanie-w-jezyku-c/)  
 
+
 2. **Data Structures**:  
    Learn essential data structures and algorithms, a prerequisite for effective problem-solving and programming.  
    - 🎥[C++ Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-cpp/)  

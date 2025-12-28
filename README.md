@@ -101,19 +101,19 @@ This section focuses on understanding the fundamentals and optimization of matri
 
 These resources provide a comprehensive theoretical and practical foundation in matrix multiplication, enabling you to master CUDA learning and better understand algorithm optimization in GPU environments.
 
-## Softmax ##
+## Softmaxx ##
 - [Learning CUDA by optimizing softmax: A worklog](https://maharshi.bearblog.dev/optimizing-softmax-cuda/)
 - [How to write a fast Softmax CUDA kernel?](https://github.com/facebookincubator/AITemplate/wiki/How-to-write-a-fast-Softmax-CUDA-kernel%3F)
 - [How to Implement an Efficient Softmax CUDA Kernel— OneFlow Performance Optimization](https://oneflow2020.medium.com/how-to-implement-an-efficient-softmax-cuda-kernel-oneflow-performance-optimization-sharing-405ad56e9031)
 - [Optimizing Softmax on CUDA: A Dive into High-Performance Kernels](https://1y33.github.io/blog/softmax_optimization/)
 
-## Sort ##
+## Sorts ##
 - [Performance Optimization of torch.sort on GPU](https://yywangcs.notion.site/Performance-Optimization-of-torch-sort-on-GPU-192fc9f5d8058018a1bec1efa35da3f9)
 
 ## GPU programming resources
 ### Description of the Section: GPU Programming Resources
 
-This section provides a curated collection of resources for learning, exploring, and mastering GPU programming. It covers various aspects of GPU development, including community engagement, architectural insights, tutorials, example implementations, benchmarking, and advanced tools. These resources cater to developers at different expertise levels, offering a pathway to build and optimize high-performance GPU applications.
+This sections provides a curated collection of resources for learning, exploring, and mastering GPU programming. It covers various aspects of GPU development, including community engagement, architectural insights, tutorials, example implementations, benchmarking, and advanced tools. These resources cater to developers at different expertise levels, offering a pathway to build and optimize high-performance GPU applications.
 
 ---
 

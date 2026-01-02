@@ -71,7 +71,7 @@ This structured learning path guides you through the essential steps required to
 This comprehensive learning path equips you with the skills needed to progress from foundational programming to advanced CUDA development, paving the way for a career in GPU-accelerated computing.
 
 ## Matmul ##
-This section focuses on understanding the fundamentals and optimization of matrix multiplication (Matmul), a cornerstone operation in CUDA programming and high-performance computing (HPC). The provided resources cover both CPU implementations and GPU optimizations, including the use of Tensor Cores on architectures like Ampere and Ada. These materials are essential for building a strong foundation in writing optimized CUDA code.
+This sections focuses on understanding the fundamentals and optimization of matrix multiplication (Matmul), a cornerstone operation in CUDA programming and high-performance computing (HPC). The provided resources cover both CPU implementations and GPU optimizations, including the use of Tensor Cores on architectures like Ampere and Ada. These materials are essential for building a strong foundation in writing optimized CUDA code.
 
 - **Matmul theory
    - [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787) 
@@ -93,7 +93,7 @@ This section focuses on understanding the fundamentals and optimization of matri
   - [Fastest GPU kernels, written from scratch.](https://github.com/pranjalssh/fast.cu)
   - [GPU Mode - Lecture 45: Outperforming cuBLAS on H100](https://www.youtube.com/watch?v=ErTmTCRP1_U)
   - [Insanely Fast H100 Matrix Multiplication](https://github.com/ademeure/hopperian_tensor)
-- **Theory and Basics**:
+- **Theory and Basicss**:
   - [CUDA Matrix Multiplication](https://leimao.github.io/blog/CUDA-Matrix-Multiplication/)
   - [Matrix Multiplication Implementation Using NVIDIA Tensor Core](https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/)
   - [Matrix Multiplication Background User's Guide](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
